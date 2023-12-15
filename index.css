@@ -1,0 +1,430 @@
+
+
+
+img {
+    height: 280px;
+    width: 250px;
+    margin-left: 40px;
+    margin-top: 10px;
+    text-align:;
+    background-color: #CCCCCC;
+}
+
+.name {
+    background-color: #CCCCCC;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 1025px;
+}
+
+.backg {
+    margin-top: 0px;
+    margin-left: 300px;
+    font-family: serif;
+    font-size: 16px;
+}
+
+@media screen and (max-width:1000px ) {
+    .backg {
+        width: 340px;
+        margin-left: 0px;
+    }
+}
+
+backg p {
+    width: 480px
+}
+
+@media screen and (max-width:1000px ) {
+    .backg p {
+        width: 470px;
+    }
+}
+
+h1 {
+    border-color: black;
+    border-radius: 10px;
+    border-style: double;
+    width: 480px;
+    height: 70px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+    color:;
+}
+
+@media screen and (max-width:1000px ) {
+    h1 {
+        font-size: 50px;
+    }
+}
+
+h3 {
+    margin-left: 250px;
+    margin-bottom: 10px;
+}
+
+h4 {
+    border-color: black;
+    border-radius: 20px;
+    border-style: double;
+    width: 50%;
+    margin-left: 20px;
+    text-align: center;
+}
+
+@media screen and (max-width:1000px ) {
+    h4 {
+        width: 100%;
+        margin-left: 0px;
+    }
+}
+
+p {
+    margin-left: 20px;
+    width: 400px font-family: serif;
+    font-size: 16px;
+}
+
+.contacts {
+    margin-left: 500px;
+    margin-top: -260px;
+    font-family: serif;
+    font-size: 16px;
+}
+
+.employ {
+    margin-top: -220px;
+    margin-left: 300px;
+    font-family: serif;
+    font-size: 16px;
+    width: 670px;
+}
+
+@media screen and (max-width:1000px ) {
+    .employ {
+        width: 480px;
+        margin-left: 0px;
+        margin-top: 20px;
+       
+    }
+}
+
+@media screen and (max-width:400px ) {
+    .employ {
+        margin-top: 600px;
+    }
+}
+
+tr {
+    background-color: black;
+    color: white;
+}
+
+.skills {
+    margin-left: 300px;
+    width: 670px;
+}
+
+@media screen and (max-width:1000px ) {
+    .skills {
+        width: 480px;
+        margin-left: 0px;
+    }
+}
+
+.skills-listen {
+    background-color: yellow;
+    width: 85%;
+    margin-top: 5px;
+}
+
+.skills-time {
+    background-color: red;
+    width: 92%;
+    margin-top: 5px;
+}
+
+.skills-communicate {
+    background-color: yellow;
+    width: 95%;
+    margin-top: 5px;
+}
+
+.skills-team {
+    background-color: red;
+    width: 80%;
+    margin-top: 5px;
+}
+
+.skills-shark {
+    background-color: yellow;
+    width: 80%;
+    margin-top: 5px;
+}
+
+.skills-web {
+    background-color: red;
+    width: 92%;
+    margin-top: 5px;
+}
+
+.skills-dev {
+    background-color: yellow;
+    width: 95%;
+    margin-top: 5px;
+}
+
+.skills-js {
+    background-color: red;
+    width: 80%;
+    margin-top: 5px;
+}
+
+.skills-ps {
+    background-color: yellow;
+    width: 89%;
+    margin-top: 5px;
+}
+
+.skills-core {
+    background-color: red;
+    width: 79%;
+    margin-top: 5px;
+}
+
+.skills-code {
+    background-color: yellow;
+    width: 70%;
+    margin-top: 5px;
+}
+
+.skills-py {
+    background-color: red;
+    width: 85%;
+    margin-top: 5px;
+}
+
+.skills-problem {
+    background-color: yellow;
+    width: 95%;
+    margin-top: 5px;
+}
+
+.skills-hard {
+    background-color: red;
+    width: 80%;
+    margin-top: 5px;
+}
+
+.skills-active {
+    background-color: yellow;
+    width: 89%;
+    margin-top: 5px;
+}
+
+.core {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 250px;
+}
+
+@media screen and (max-width:1000px ) {
+    .core {
+        width: 230px;
+    }
+}
+
+.soft {
+    margin-left: 250px;
+    margin-top: -270px;
+    width: 250px;
+    font-family: serif;
+    font-size: 16px;
+}
+
+@media screen and (max-width:1000px ) {
+    .soft {
+        width: 230px;
+    }
+}
+
+.education {
+    margin-top: 0px;
+    margin-left: 30px;
+    font-family: serif;
+    font-size: 16px;
+    width: 500px;
+}
+
+@media screen and (max-width:1000px ) {
+    .education {
+        width: 240px;
+        margin-left: 0px;
+        margin-top:-400px;
+    }
+}
+
+.subjects {
+    margin-top: -235px;
+    margin-left: 770px;
+    font-family: serif;
+    font-size: 16px;
+    width: 230px;
+    
+}
+
+@media screen and (max-width:1000px ) {
+    .subjects {
+        width: 240px;
+        margin-left: 0px;
+        margin-top: 70px;
+        height:400px;
+    }
+}
+
+@media screen and (max-width:400px ) {
+    .subjects {
+        width: 340px;
+        margin-top: -175px;
+    }
+}
+
+.qualifications {
+    margin-left: 30px;
+    margin-top: -510px;
+    width: 300px;
+    font-family: serif;
+    font-size: 16px;
+}
+
+@media screen and (max-width:1000px ) {
+    .qualifications {
+        width: 200px;
+        margin-left: 270px;
+        margin-top: 50px;
+        font-size: 8px;
+        height: 400px;
+    }
+}
+
+@media screen and (max-width:400px ) {
+    .qualifications {
+        margin-top: -1890px;
+    }
+}
+
+.profile {
+    background-color:;
+    margin-left: 30px;
+    margin-top: -232px;
+    width: 267px;
+    height: 440px;
+    font-family: serif;
+    font-size: 16px;
+}
+
+@media screen and (max-width:1000px ) {
+    .profile {
+        margin-left: 0px;
+        margin-top: -2px;
+    }
+}
+
+.profile h1 {
+    width: 100%;
+}
+
+@media screen and (max-width:1000px ) {
+    .profile h1 {
+        width: 480px;
+    }
+}
+
+.reference {
+    width: 100%;
+    margin-top: 40px;
+    font-family: serif;
+    font-size: 16px;
+}
+
+@media screen and (max-width:1000px ) {
+    .reference {
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+}
+
+.reference h1 {
+    margin-left: 200px;
+}
+
+@media screen and (max-width:1000px ) {
+    .reference h1 {
+        margin-left: 0px;
+    }
+}
+
+@media screen and (max-width:400px ) {
+    .reference {
+        margin-top: 1020px;
+    }
+}
+
+.contact {
+    margin-left: 50px;
+    margin-top: 0px;
+    display: inline-block;
+    font-family: serif;
+    font-size: 16px;
+    width: 273px;
+}
+
+.contact-box {
+    display: inline-block;
+}
+
+.outro {
+    margin-top: 40px;
+    margin-left: 50px;
+    font-family: serif;
+    font-size: 16px;
+    border-color: black;
+    border-radius: 10px;
+    border-style: double;
+}
+
+@media screen and (max-width:1000px ) {
+    .outro {
+        width: 470px;
+        margin-left: 10px;
+    }
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    height: 50px;
+    margin-top: 25px;
+    color: white;
+}
+
+@media screen and (max-width:400px ) {
+    .footer {
+        width: 490px;
+    }
+}
+
+u {
+    border-color: black;
+    border-radius: 10px;
+    border-style: double;
+    padding: 5px;
+}
+
+.
+.text {
+    color: white;
+    padding-top: 1px;
+}
