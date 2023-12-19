@@ -269,7 +269,7 @@ tr {
     .education {
         width: 240px;
         margin-left: 0px;
-        margin-top:-400px;
+        margin-top:-600px;
     }
 }
 .subjects {
@@ -294,7 +294,7 @@ tr {
     .subjects {
         width: 240px;
         margin-top: -400px;
-        margin-left: 270px;
+        margin-left: 250px;
     }
 }
 
@@ -340,6 +340,7 @@ tr {
     .profile {
         margin-left: 0px;
         margin-top: -2px;
+        
     }
 }
 @media screen and (max-width:400px ) {
