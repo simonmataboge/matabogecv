@@ -293,7 +293,8 @@ tr {
 @media screen and (max-width:400px ) {
     .subjects {
         width: 240px;
-        margin-top: 40px;
+        margin-top: -400px;
+        margin-left: 270px;
     }
 }
 
