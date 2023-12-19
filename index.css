@@ -285,7 +285,7 @@ tr {
     .subjects {
         width: 470px;
         margin-left: 0px;
-        margin-top: 20px;
+        margin-top: -600px;
         height:400px;
     }
 }
