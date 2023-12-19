@@ -262,14 +262,14 @@ tr {
     .education {
         width: 470px;
         margin-left: 0px;
-        margin-top:-400px;
+        margin-top:-800px;
     }
 }
 @media screen and (max-width:400px ) {
     .education {
         width: 240px;
         margin-left: 0px;
-        margin-top:-800px;
+        margin-top:-400px;
     }
 }
 .subjects {
@@ -285,7 +285,7 @@ tr {
     .subjects {
         width: 470px;
         margin-left: 0px;
-        margin-top: -600px;
+        margin-top: -200px;
         height:400px;
     }
 }
