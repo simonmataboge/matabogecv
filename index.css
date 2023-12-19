@@ -262,11 +262,11 @@ tr {
     .education {
         width: 470px;
         margin-left: 0px;
-        margin-top:-400px;
+        margin-top:-1160px;
     }
 }
 @media screen and (max-width:400px ) {
-    .education {
+    education {
         width: 240px;
         margin-left: 0px;
         margin-top:-400px;
@@ -285,13 +285,13 @@ tr {
     .subjects {
         width: 470px;
         margin-left: 0px;
-        margin-top: -600px;
-        height:400px;
+        margin-top: 40px;
+        height:450px;
     }
 }
 
 @media screen and (max-width:400px ) {
-    .subjects {
+    subjects {
         width: 470px;
         margin-top: -400px;
         margin-left: 250px;
@@ -300,7 +300,7 @@ tr {
 
 .qualifications {
     margin-left: 30px;
-    margin-top: -570px;
+    margin-top: -620px;
     width: 300px;
     font-family: serif;
     font-size: 16px;
@@ -310,14 +310,14 @@ tr {
     .qualifications {
         width: 470px;
         margin-left: 0px;
-        margin-top: 450px;
+        margin-top: 400px;
         font-size: 8px;
         height: 800px;
     }
 }
 
 @media screen and (max-width:400px ) {
-    .qualifications {
+    qualifications {
         width: 470px;
         margin-left: 20px;
         margin-top: 450px;
@@ -351,7 +351,7 @@ tr {
     }
 }
 .profile h1 {
-    width: 100%;
+    width: 270px;
 }
 
 @media screen and (max-width:1000px ) {
@@ -362,25 +362,25 @@ tr {
 
 .reference {
     width: 100%;
-    margin-top: 40px;
+    margin-top: 160px;
     font-family: serif;
     font-size: 16px;
 }
 
 @media screen and (max-width:1000px ) {
     .reference {
-        margin-top: 10px;
+        margin-top: 180px;
         margin-left: 0px;
     }
 }
 @media screen and (max-width:400px ) {
-    .reference {
+    reference {
         margin-top: 100px;
         margin-left: 0px;
     }
 }
 .reference h1 {
-    margin-left: 200px;
+    margin-left: 300px;
 }
 
 @media screen and (max-width:1000px ) {
@@ -390,7 +390,7 @@ tr {
 }
 
 @media screen and (max-width:400px ) {
-    .reference {
+    reference {
         margin-top: 20px;
     }
 }
