@@ -260,7 +260,7 @@ tr {
 
 @media screen and (max-width:1000px ) {
     .education {
-        width: 240px;
+        width: 470px;
         margin-left: 0px;
         margin-top:-400px;
     }
@@ -283,16 +283,16 @@ tr {
 
 @media screen and (max-width:1000px ) {
     .subjects {
-        width: 240px;
+        width: 470px;
         margin-left: 0px;
-        margin-top: -400px;
+        margin-top: -600px;
         height:400px;
     }
 }
 
 @media screen and (max-width:400px ) {
     .subjects {
-        width: 240px;
+        width: 470px;
         margin-top: -400px;
         margin-left: 250px;
     }
