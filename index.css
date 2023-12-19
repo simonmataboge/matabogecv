@@ -265,7 +265,13 @@ tr {
         margin-top:-400px;
     }
 }
-
+@media screen and (max-width:400px ) {
+    .education {
+        width: 240px;
+        margin-left: 0px;
+        margin-top:0px;
+    }
+}
 .subjects {
     margin-top: -235px;
     margin-left: 770px;
@@ -287,7 +293,7 @@ tr {
 @media screen and (max-width:400px ) {
     .subjects {
         width: 340px;
-        margin-top: -175px;
+        margin-top: 70px;
     }
 }
 
@@ -311,7 +317,7 @@ tr {
 
 @media screen and (max-width:400px ) {
     .qualifications {
-        margin-top: -1890px;
+        margin-top: 50px;
     }
 }
 
