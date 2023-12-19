@@ -309,10 +309,10 @@ tr {
 @media screen and (max-width:1000px ) {
     .qualifications {
         width: 470px;
-        margin-left: 20px;
+        margin-left: 0px;
         margin-top: 450px;
         font-size: 8px;
-        height: 400px;
+        height: 800px;
     }
 }
 
