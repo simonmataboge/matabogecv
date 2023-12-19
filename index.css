@@ -367,7 +367,12 @@ tr {
         margin-left: 0px;
     }
 }
-
+@media screen and (max-width:400px ) {
+    .reference {
+        margin-top: 100px;
+        margin-left: 0px;
+    }
+}
 .reference h1 {
     margin-left: 200px;
 }
