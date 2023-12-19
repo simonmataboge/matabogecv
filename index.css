@@ -405,7 +405,8 @@ tr {
 }
 @media screen and (max-width:1000px ) {
     .contact {
-        margin-left: 20px;
+        margin-left: 0px;
+        margin-top: 10px;
     }
 }
 .contact-box {
