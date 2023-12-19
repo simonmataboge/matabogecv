@@ -285,7 +285,7 @@ tr {
     .subjects {
         width: 240px;
         margin-left: 0px;
-        margin-top: 70px;
+        margin-top: -400px;
         height:400px;
     }
 }
@@ -310,7 +310,7 @@ tr {
     .qualifications {
         width: 470px;
         margin-left: 20px;
-        margin-top: 50px;
+        margin-top: 450px;
         font-size: 8px;
         height: 400px;
     }
@@ -320,7 +320,7 @@ tr {
     .qualifications {
         width: 470px;
         margin-left: 20px;
-        margin-top: 50px;
+        margin-top: 450px;
         font-size: 8px;
         height: 400px;
     }
