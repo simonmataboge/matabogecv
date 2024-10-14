@@ -118,8 +118,9 @@ p {
 }
 
 tr {
-    background-color: black;
-    color: white;
+    background-color: 
+		;
+    color: ;
 }
 
 .skills {
@@ -135,91 +136,76 @@ tr {
 }
 
 .skills-listen {
-    background-color: yellow;
     width: 85%;
     margin-top: 5px;
 }
 
 .skills-time {
-    background-color: red;
     width: 92%;
     margin-top: 5px;
 }
 
 .skills-communicate {
-    background-color: yellow;
     width: 95%;
     margin-top: 5px;
 }
 
 .skills-team {
-    background-color: red;
     width: 80%;
     margin-top: 5px;
 }
 
 .skills-shark {
-    background-color: yellow;
     width: 80%;
     margin-top: 5px;
 }
 
 .skills-web {
-    background-color: red;
     width: 92%;
     margin-top: 5px;
 }
 
 .skills-dev {
-    background-color: yellow;
     width: 95%;
     margin-top: 5px;
 }
 
 .skills-js {
-    background-color: red;
     width: 80%;
     margin-top: 5px;
 }
 
 .skills-ps {
-    background-color: yellow;
     width: 89%;
     margin-top: 5px;
 }
 
 .skills-core {
-    background-color: red;
     width: 79%;
     margin-top: 5px;
 }
 
 .skills-code {
-    background-color: yellow;
     width: 70%;
     margin-top: 5px;
 }
 
 .skills-py {
-    background-color: red;
     width: 85%;
     margin-top: 5px;
 }
 
 .skills-problem {
-    background-color: yellow;
     width: 95%;
     margin-top: 5px;
 }
 
 .skills-hard {
-    background-color: red;
     width: 80%;
     margin-top: 5px;
 }
 
 .skills-active {
-    background-color: yellow;
     width: 89%;
     margin-top: 5px;
 }
@@ -251,7 +237,7 @@ tr {
 }
 
 .education {
-    margin-top: 0px;
+    margin-top: 10px;
     margin-left: 30px;
     font-family: serif;
     font-size: 16px;
@@ -273,7 +259,7 @@ tr {
     }
 }
 .subjects {
-    margin-top: -235px;
+    margin-top: -125px;
     margin-left: 770px;
     font-family: serif;
     font-size: 16px;
@@ -362,7 +348,7 @@ tr {
 
 .reference {
     width: 100%;
-    margin-top: 160px;
+    margin-top: 100px;
     font-family: serif;
     font-size: 16px;
 }
@@ -449,6 +435,9 @@ u {
     border-radius: 10px;
     border-style: double;
     padding: 5px;
+	font-size: 16pxx
+		;
+	text-decoration: none;
 }
 
 .
